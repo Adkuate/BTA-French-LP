@@ -2,8 +2,8 @@
 
 ----
 
-## 1.0.0 - xx-xx-2025
+## 1.0.0 - 02-20-2025
 
 ### New
 
-* Created the French (France) language package for BTA 7.3_01.
+* Created the French (France) language package for BTA 7.3_01
