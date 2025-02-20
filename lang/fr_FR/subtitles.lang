@@ -1,0 +1,105 @@
+subtitles.mob.sheep=Bêlement de mouton
+subtitles.mob.chicken=Gloussement de poulet
+subtitles.mob.chicken.hurt=Poulet blessé
+subtitles.mob.chicken.plop=Poulet plop
+subtitles.mob.pig=Grogne de cochon
+subtitles.mob.pig.death=Mort de cochon
+subtitles.mob.wolf.howl=Hurlement de loup
+subtitles.mob.wolf.panting=Halètement de loup
+subtitles.mob.wolf.hurt=Loup blessé
+subtitles.mob.wolf.bark=Aboiement de loup
+subtitles.mob.wolf.growl=Grognement de loup
+subtitles.mob.wolf.death=Mort de loup
+subtitles.mob.wolf.whine=Gémissement de loup
+subtitles.mob.wolf.shake=Loup secoué
+subtitles.mob.cow.hurt=Vache blessée
+subtitles.mob.cow=Meuglement de vache
+subtitles.mob.zombie=Gémissement de zombie
+subtitles.mob.zombie.hurt=Zombie blessé
+subtitles.mob.zombie.death=Mort de zombie
+subtitles.mob.zombiepig.zpighurt=Zombie cochon blessé
+subtitles.mob.zombiepig.zpig=Gémissement de zombie cochon
+subtitles.mob.zombiepig.zpigdeath=Mort de zombie cochon
+subtitles.mob.zombiepig.zpigangry=Zombie cochon en colère
+subtitles.mob.skeleton=Claquement de squelette
+subtitles.mob.skeleton.death=Mort de squelette
+subtitles.mob.skeleton.hurt=Squelette blessé
+subtitles.mob.ghast.fireball=Boule de feu de Ghast
+subtitles.mob.ghast.moan=Gémissement de Ghast
+subtitles.mob.ghast.death=Mort de Ghast
+subtitles.mob.ghast.scream=Cri de Ghast
+subtitles.mob.ghast.affectionate_scream=Cri affectueux de Ghast
+subtitles.mob.creeper=Sifflement de creeper
+subtitles.mob.creeper.death=Mort de creeper
+subtitles.mob.creeper.fuse=Amorce de creeper
+subtitles.mob.spider.death=Mort d'araignée
+subtitles.mob.spider=Sifflement d'araignée
+subtitles.mob.ghast.charge=Charge de Ghast
+subtitles.mob.slime.attack=Attaque de Slime
+subtitles.mob.slime=Plop de Slime
+
+subtitles.fall.small=Petite chute
+subtitles.damage.fall.big=Grosse chute
+
+subtitles.liquid.water=Écoulement d'eau
+subtitles.liquid.lava.pop=Bulle de lave
+subtitles.liquid.lava=Bouillonnement de lave
+subtitles.liquid.splash=Éclaboussure d'eau
+
+subtitles.portal.portal=Ambiance de portail
+subtitles.portal.trigger=Déclenchement de portail
+subtitles.portal.travel=Voyage de portail
+
+subtitles.item.pickup=Ramassage d'objet
+
+subtitles.random.fizz=Pétillant
+subtitles.random.drr=Flèche drr
+subtitles.random.fuse=Mèche allumée
+subtitles.random.skate=Patinage
+subtitles.random.pop=Pop
+subtitles.random.glass=Verre
+subtitles.random.door_open=Porte ouverte
+subtitles.random.door_close=Porte fermée
+subtitles.random.explode=Explosion
+subtitles.random.bow=Tir à l'arc
+subtitles.random.hurt=Blessé
+subtitles.random.splash=Éclaboussure
+subtitles.random.breath=Souffle
+subtitles.random.bite=Joueur mangeant
+subtitles.random.equip=Armure équipée
+
+subtitles.note.snare=Note caisse claire
+subtitles.note.harp=Note harpe
+subtitles.note.bass=Note basse
+subtitles.note.bd=Note grosse caisse
+subtitles.note.pling=Note pling
+subtitles.note.hat=Note charleston
+subtitles.note.bassattack=Note attaque basse
+subtitles.note.chant=Note chant
+subtitles.note.drum_steel=Note steel drum
+subtitles.note.chip_triangle=Note onde triangulaire
+subtitles.note.guitar_electric=Note guitare électrique
+subtitles.note.celesta=Note célesta
+subtitles.note.wood_block=Note bloc de bois
+
+subtitles.ambient.weather.thunder=Tonnerre
+subtitles.ambient.cave=Ambiance de grotte
+subtitles.ambient.weather.rain=Pluie
+
+subtitles.tile.piston.out=Piston étendu
+subtitles.tile.piston.in=Piston rétracté
+
+subtitles.tile.tnt.fuse=TNT allumé
+subtitles.tile.sensor_block.sense=Mob détecté
+
+subtitles.tile.dispenser.click=Clic de distributeur
+subtitles.tile.dispenser.eject=Éjection de distributeur
+subtitles.tile.dispenser.fire=Tir de distributeur
+
+subtitles.tile.activator.click=Clic d'activateur
+subtitles.tile.activator.use=Utilisation d'activateur
+
+subtitles.hurt.flesh=Chair blessée
+
+subtitles.fire.ignite=Feu allumé
+subtitles.fire.fire=Crépitement de feu

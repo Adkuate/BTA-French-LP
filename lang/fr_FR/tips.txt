@@ -1,0 +1,28 @@
+Appuyez sur %key.guidebook pour ouvrir le guide d'utilisation.
+Les portails peuvent être aussi grands (ou petits) que vous le souhaitez.
+Le Trommel vous permet de transformer des saletés inutiles en ressources précieuses.
+Les cerisiers fleurissent au printemps.
+Les bottes en cuir protègent vos cultures du piétinement.
+Les saisons changent tous les 14 jours.
+Les objets tombent à travers des blocs de maille.
+Les hauts-fourneaux fondent plus rapidement que les fourneaux ordinaires.
+Appuyez sur %key.fly pour voler de manière créative.
+La mousse s'étend aux blocs voisins. Regardez ce qu'elle peut faire !
+Utilisez %key.fly + défilement haut/bas pour modifier la vitesse de vol dans creative.
+Vous en avez marre de voir l'herbe pousser ? Utilise de la poudre d'os sur la terre.
+Les lits ont besoin de couvertures ! Utilisez du tissu pour les fabriquer.
+Les carquois sont un moyen pratique de stocker un grand nombre de flèches.
+L'olivine est un bon substitut au charbon du Néant.
+Le sol de la cambrousse est riche en minéraux.
+Il existe 4 principaux types de roches ! Regardez lequel vous préférez.
+Envie d'une touche de couleur ? Essaie de peindre des planches !
+Appuyez sur %key.hotbar.switch pour modifier votre barre d'outils active.
+Utilise une boussole pour connaître tes coordonnées.
+Utilisez une horloge pour connaître l'heure.
+Utilisez un calendrier rotatif pour connaître la saison.
+Les labyrinthes contiennent de rares trésors passionnants.
+Un clic droit sur un drapeau tout en tenant un autre drapeau permet de copier son motif.
+Les panneaux peuvent être teints.
+Des cailloux peuvent être placés sur le sol pour créer un joli chemin.
+Les étiquettes peuvent être utilisées pour renommer les monstres et les objets.
+Appuyez sur LCTRL lorsque vous survolez un objet pour voir sa description.

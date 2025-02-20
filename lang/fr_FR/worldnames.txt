@@ -1,0 +1,783 @@
+# Just a heads-up, you don't need to translate all these individually - just supply your own list and BTA will figure it out.
+# This list sourced from: https://gist.github.com/hugsy/8910dc78d208e40de42deb29e62df913
+
+[formats]
+# Any formats with "l'" or "d'" must be followed by a word starting with a vowel (a, e, i, o, u, y) and in singular
+# Any formats with "la" or "de la" must be followed by a word pronounced in the female gender and in singular
+# Any formats with "le", "de", or "du" must be followed by a word pronounced in the male gender and in singular
+# Any formats with "les" or "des" must be followed by a word pronounced in plural
+Le %a %p
+Le %p de %a %n
+Le %p du %a %n
+Le %p des %a %n
+Le %p de la %a %n
+Le %p d'%a %n
+Le %p de %n
+Le %p du %n
+Le %p des %n
+Le %p de la %n
+Le %p d'%n
+La %a %p
+La %p de %a %n
+La %p du %a %n
+La %p des %a %n
+La %p de la %a %n
+La %p d'%a %n
+La %p de %n
+La %p du %n
+La %p des %n
+La %p de la %n
+La %p d'%n
+Les %a %p
+Les %p de %a %n
+Les %p du %a %n
+Les %p des %a %n
+Les %p de la %a %n
+Les %p d'%a %n
+Les %p de %n
+Les %p du %n
+Les %p des %n
+Les %p de la %n
+Les %p d'%n
+L'%a %p
+L'%p de %a %n
+L'%p du %a %n
+L'%p des %a %n
+L'%p de la %a %n
+L'%p d'%a %n
+L'%p de %n
+L'%p du %n
+L'%p des %n
+L'%p de la %n
+L'%p d'%n
+%a %p
+%p de %a %n
+%p du %a %n
+%p des %a %n
+%p de la %a %n
+%p d'%a %n
+%p de %n
+%p du %n
+%p des %n
+%p de la %n
+%p d'%n
+
+[adjectives]
+abandonné
+capable
+absolu
+adorable
+aventureux
+académique
+acceptable
+acclamé
+accompli
+précis
+aching
+acide
+acrobatique
+actif
+réel
+adroit
+admirable
+admiré
+adolescent
+adorable
+adoré
+avancé
+effrayé
+affectueux
+âgé
+aggravant
+agressif
+agile
+agité
+agonisant
+agréable
+jarre
+alarmé
+alarmant
+alerte
+aliéné
+vivant
+tout
+altruiste
+incroyable
+ambitieux
+ample
+amusé
+amusant
+ancré
+ancien
+angélique
+en colère
+angoissé
+animé
+annuel
+un autre
+antique
+anxieux
+n'importe quel
+appréhensif
+approprié
+apte
+arctique
+aride
+aromatique
+artistique
+honteux
+assuré
+étonnant
+athlétique
+attaché
+attentif
+attractif
+austère
+authentique
+autorisé
+automatique
+avare
+moyen
+conscient
+génial
+terrible
+maladroit
+enfantin
+mauvais
+arrière
+ample
+nu
+stérile
+basique
+beau
+retardé
+bien-aimé
+bénéfique
+meilleur
+meilleur
+ensorcelé
+grand
+généreux
+biodégradable
+de taille bouchée
+amer
+noir
+noir et blanc
+fade
+vide
+éclatant
+morne
+aveugle
+béat
+blond
+bleu
+rougissant
+faux
+bouillant
+audacieux
+osseux
+ennuyeux
+autoritaire
+les deux
+rebondissant
+abondant
+courbé
+brave
+cassable
+bref
+lumineux
+brillant
+vif
+cassé
+bronze
+marron
+meurtri
+pétillant
+volumineux
+bosselé
+flottant
+accablant
+robuste
+bourdonnant
+calculateur
+calme
+candide
+canin
+capital
+insouciant
+prudent
+négligent
+attentionné
+prudent
+caverneux
+célébré
+charmant
+bon marché
+joyeux
+enjoué
+chef
+frais
+potelé
+circulaire
+classique
+propre
+clair
+net
+intelligent
+proche
+fermé
+nuageux
+sans indice
+maladroit
+encombré
+grossier
+froid
+coloré
+incolore
+colossal
+confortable
+commun
+compatissant
+compétent
+complet
+complexe
+compliqué
+composé
+préoccupé
+concret
+confus
+conscient
+prévenant
+constant
+content
+conventionnel
+cuit
+cool
+coopératif
+coordonné
+ringard
+corrompu
+coûteux
+courageux
+courtois
+rusé
+fou
+crémeux
+créatif
+effrayant
+criminel
+croustillant
+critique
+tordu
+bondé
+cruel
+écrasant
+douillet
+cultivé
+cultivé
+encombrant
+bouclé
+courbé
+mignon
+cylindrique
+endommagé
+humide
+dangereux
+da...
+suant
+doux
+étouffant
+rapide
+sympathique
+grand
+bavard
+apprivoisé
+bronzé
+tangible
+acide
+savoureux
+déchiré
+tendu
+fastidieux
+grouillant
+tentant
+tendre
+tendu
+tiède
+terrible
+terrifiant
+testy
+reconnaissant
+cela
+ces
+épais
+mince
+tiers
+assoiffé
+ceci
+minutieux
+épineux
+ceux
+attentionné
+usé
+économe
+tonitruant
+soigné
+serré
+opportun
+teinté
+minuscule
+fatigué
+déchiré
+total
+dur
+traumatisant
+trésor
+énorme
+tragique
+entraîné
+triangulaire
+délicat
+insignifiant
+mince
+trivial
+troublé
+vrai
+confiant
+digne de confiance
+robuste
+véridique
+grassouillet
+turbulent
+jumeau
+laid
+ultime
+inacceptable
+inconscient
+inconfortable
+inhabituel
+inconscient
+sous-estimé
+inégalé
+inégal
+inachevé
+inapte
+déplié
+malheureux
+malsain
+uniforme
+sans importance
+unique
+uni
+négligé
+inconnu
+illégal
+sans doublure
+malchanceux
+contre nature
+désagréable
+irréaliste
+immature
+indiscipliné
+désintéressé
+disgracieux
+instable
+méconnu
+désordonné
+intempestif
+non testé
+faux
+inutilisé
+inhabituel
+indésirable
+encombrant
+réticent
+inconscient
+non écrit
+optimiste
+droit
+contrarié
+urbain
+utilisable
+utilisé
+utile
+inutile
+utilisé
+ultime
+vague
+vain
+valide
+précieux
+insipide
+variable
+vaste
+velouté
+vénéré
+vengeur
+vérifiable
+vibrant
+vicieux
+victorieux
+vigilant
+vigoureux
+vil
+violet
+violent
+virtuel
+vertueux
+visible
+vital
+vivace
+vif
+volumineux
+pâle
+belliqueux
+chaleureux
+chaleureux
+déformé
+méfiant
+gaspilleur
+vigilant
+détrempé
+aqueux
+ondulé
+riche
+faible
+las
+tissé
+minuscule
+hebdomadaire
+pleurnichard
+lourd
+bizarre
+bienvenu
+bien documenté
+bien soigné
+bien informé
+bien éclairé
+bien fait
+aisé
+usé
+mouillé
+lequel
+fantasque
+tourbillonnant
+murmuré
+blanc
+entier
+énorme
+méchant
+écarquillé
+sinueux
+sauvage
+volontaire
+flétri
+sinueux
+venteux
+ailé
+nerveux
+sage
+spirituel
+instable
+boisé
+étourdi
+verbeux
+mondain
+usé
+inquiet
+préoccupant
+pire
+le pire
+sans valeur
+valable
+digne
+courroucé
+misérable
+se tordant
+faux
+ironique
+bâillant
+précoce
+jaune
+jaunâtre
+jeune
+juvénile
+délicieux
+fou
+zélé
+zesté
+zigzag
+
+[nouns]
+personnes
+histoire
+chemin
+art
+monde
+information
+carte
+deux
+famille
+gouvernement
+santé
+système
+ordinateur
+viande
+année
+merci
+musique
+personne
+lecture
+méthode
+données
+nourriture
+compréhension
+théorie
+loi
+oiseau
+littérature
+problème
+logiciel
+contrôle
+connaissance
+pouvoir
+capacité
+économie
+amour
+internet
+télévision
+science
+bibliothèque
+nature
+fait
+produit
+idée
+température
+investissement
+zone
+société
+activité
+histoire
+industrie
+médias
+chose
+four
+communauté
+définition
+sécurité
+qualité
+développement
+langue
+gestion
+joueur
+variété
+vidéo
+semaine
+sécurité
+pays
+examen
+film
+organisation
+équipement
+physique
+analyse
+politique
+série
+pensée
+base
+petit ami
+direction
+stratégie
+technologie
+armée
+caméra
+liberté
+papier
+environnement
+enfant
+exemple
+mois
+vérité
+marketing
+université
+écriture
+article
+département
+différence
+objectif
+nouvelles
+public
+pêche
+croissance
+revenu
+mariage
+utilisateur
+combinaison
+échec
+signification
+médecine
+philosophie
+enseignant
+communication
+nuit
+chimie
+maladie
+disque
+énergie
+nation
+route
+rôle
+soupe
+publicité
+emplacement
+succès
+addition
+appartement
+éducation
+mathématiques
+moment
+peinture
+politique
+attention
+décision
+événement
+propriété
+shopping
+étudiant
+bois
+compétition
+distribution
+divertissement
+bureau
+population
+président
+unité
+catégorie
+cigarette
+contexte
+introduction
+opportunité
+performance
+conducteur
+vol
+longueur
+magazine
+journal
+relation
+enseignement
+cellule
+revendeur
+découverte
+lac
+membre
+message
+téléphone
+scène
+apparence
+association
+concept
+client
+mort
+discussion
+logement
+inflation
+assurance
+humeur
+femme
+conseil
+sang
+effort
+expression
+importance
+opinion
+paiement
+réalité
+responsabilité
+situation
+compétence
+déclaration
+richesse
+application
+ville
+comté
+profondeur
+domaine
+fondation
+grand-mère
+cœur
+perspective
+photo
+recette
+studio
+sujet
+collection
+dépression
+imagination
+passion
+pourcentage
+ressource
+cadre
+annonce
+agence
+université
+connexion
+critique
+dette
+description
+mémoire
+patience
+secrétaire
+solution
+administration
+aspect
+attitude
+
+[place-nouns]
+village
+ville
+cité
+métropole
+banlieue
+hameau
+forêt
+désert
+montagne
+vallée
+plateau
+canyon
+plage
+parc
+jungle
+glacier
+prairie
+péninsule
+archipel
+oasis
+îlot
+falaise
+ravin
+ruisseau
+toundra
+lagune
+île
+pays
+région
+océan
+lac
+rivière
+ruisseau
+cascade
+volcan
+colline
+plaine
+campagne
+cottage
+grotte
+crique
+baie
+port
+delta
+savane
+estuaire
+mesa
+plateau
