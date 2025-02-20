@@ -10,5 +10,5 @@ After running *Better Than Adventure!*, go to Language Packs, either by clicking
 ## Credits
 
 - Mojang - *Minecraft*'s French (France) translation
-- jonkadelic, skydeckagogo - Official BTA's English language pack
+- jonkadelic, MaggAndGeez - Official BTA's English language pack
 - Prolyfic (me) - BTA's French (France) language pack
