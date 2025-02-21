@@ -8,7 +8,7 @@
 
 * Updated the package's description
 * Added translation to the new blocks from version 7.3_01.
-* Updated the translation for the following files :
+* Updated the translation for the following files:
     * `gui.lang`, `guidebook.lang`, `item.lang`, `options.lang`, `strings.lang`, `subtitles.lang`, `tile.lang`
 * Fixed few overflowing descriptions
 
