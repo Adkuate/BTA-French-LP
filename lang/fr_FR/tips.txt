@@ -1,6 +1,6 @@
 Appuyez sur %key.guidebook pour ouvrir le guide d'utilisation.
 Les portails peuvent être aussi grands (ou petits) que vous le souhaitez.
-Le Trommel vous permet de transformer des saletés inutiles en ressources précieuses.
+Le tamis rotatif vous permet de transformer des saletés inutiles en ressources précieuses.
 Les cerisiers fleurissent au printemps.
 Les bottes en cuir protègent vos cultures du piétinement.
 Les saisons changent tous les 14 jours.
@@ -12,7 +12,7 @@ Utilisez %key.fly + défilement haut/bas pour modifier la vitesse de vol dans cr
 Vous en avez marre de voir l'herbe pousser ? Utilise de la poudre d'os sur la terre.
 Les lits ont besoin de couvertures ! Utilisez du tissu pour les fabriquer.
 Les carquois sont un moyen pratique de stocker un grand nombre de flèches.
-L'olivine est un bon substitut au charbon du Néant.
+L'olivine est un bon substitut au charbon du Nether.
 Le sol de la cambrousse est riche en minéraux.
 Il existe 4 principaux types de roches ! Regardez lequel vous préférez.
 Envie d'une touche de couleur ? Essaie de peindre des planches !

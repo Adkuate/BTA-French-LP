@@ -1,11 +1,11 @@
 {
-    "id": "fr_FR",
-    "name": "Français",
-    "region": "FR",
-    "credits": [
-        "Mojang",
-        "jonkadelic",
-	    "MaggAndGeez",
-        "Prolyfic"
-    ]
+  "id": "fr_FR",
+  "name": "Français",
+  "region": "FR",
+  "credits": [
+    "Mojang",
+    "jonkadelic",
+    "MaggAndGeez",
+    "Prolyfic"
+  ]
 }

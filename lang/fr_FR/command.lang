@@ -171,25 +171,25 @@ command.commands.playsound.exception_failure=Impossible de jouer le son %s
 command.commands.spawnparticle.success=Particule %s générée à %s, %s, %s
 
 command.commands.ban.ip.success=IP '%s' bannie
-command.commands.ban.username.success=Joueur '%s' banni
+command.commands.ban.username.success=Joueur '%s' banni·e
 command.commands.ban.username.fail.wrong_name=Impossible de trouver le joueur pour '%s'
 command.commands.ban.exception_failure=Échec du bannissement de '%s'
 
-command.commands.unban.ip.success=IP '%s' débannie
-command.commands.unban.username.success=Joueur '%s' débanni
+command.commands.unban.ip.success=IP '%s' dé-bannie
+command.commands.unban.username.success=Joueur '%s' dé-banni·e
 command.commands.unban.username.fail.wrong_name=Impossible de trouver le joueur pour '%s'
-command.commands.unban.exception_failure=Échec du débannissement de '%s'
+command.commands.unban.exception_failure=Échec du dé-bannissement de '%s'
 
-command.commands.kick.success=Joueur '%s' expulsé
+command.commands.kick.success=Joueur '%s' expulsé·e
 command.commands.kick.exception_failure=Échec de l'expulsion de '%s'
 
 command.commands.whitelist.on.success=Activation de la liste blanche
 command.commands.whitelist.off.success=Désactivation de la liste blanche
 command.commands.whitelist.list=Joueurs sur la liste blanche : %s
 command.commands.whitelist.reload=Rechargement de la liste blanche
-command.commands.whitelist.add.success='%s' ajouté à la liste blanche
+command.commands.whitelist.add.success='%s' ajouté·e à la liste blanche
 command.commands.whitelist.add.fail.wrong_name=Échec de l'ajout de '%s' à la liste blanche
-command.commands.whitelist.remove.success='%s' retiré de la liste blanche
+command.commands.whitelist.remove.success='%s' retiré·e de la liste blanche
 command.commands.whitelist.remove.fail.wrong_name=Échec du retrait de '%s' de la liste blanche
 command.commands.whitelist.exception_failure=Échec du traitement de la commande de liste blanche pour '%s'
 

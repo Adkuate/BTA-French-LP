@@ -4,7 +4,7 @@ guidebook.section.mob=Créatures
 guidebook.section.crafting=Fabrication
 guidebook.section.furnace=Cuisson
 guidebook.section.blast_furnace=Haute cuisson
-guidebook.section.trommel=Trommelage
+guidebook.section.trommel=Tamisage
 guidebook.section.search=Rechercher
 
 guidebook.section.search.error.no_recipes=Aucune recette trouvée :(
