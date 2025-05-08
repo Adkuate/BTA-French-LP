@@ -1,5 +1,5 @@
 # Better Than Adventure! - French language pack
-A language pack add-on for *Minecraft* Beta 1.7.3 forked *[Better Than Adventure!](https://www.betterthanadventure.net/)*. Currently, in French (France) only.
+A language pack add-on for *Minecraft* Beta 1.7.3 forked *[Better Than Adventure!](https://www.betterthanadventure.net/)*. Currently available in French (France) only.
 
 ---
 
