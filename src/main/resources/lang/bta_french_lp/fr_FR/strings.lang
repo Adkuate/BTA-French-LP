@@ -14,7 +14,6 @@ season.null.name=Aucune saison
 
 weather.overworld.clear.name=Clair
 weather.overworld.clear.hell.name=Clair
-weather.overworld.rain.blood.name=Pluie de sang
 weather.overworld.clear.woods.name=Clair
 weather.overworld.rain.name=Pluie
 weather.overworld.snow.name=Neige
@@ -133,6 +132,10 @@ sign.image.craft=Artisanat
 sign.image.afk=AFK
 sign.image.brb=Je re
 sign.image.heart=Cœur
+sign.image.arrows_left_right=Flèches gauche-droite
+sign.image.arrows_up_down=Flèches haut-bas
+sign.image.check=Coché
+sign.image.exit=Sortie
 
 record.13=13
 record.cat=Cat

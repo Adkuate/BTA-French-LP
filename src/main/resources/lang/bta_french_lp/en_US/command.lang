@@ -83,6 +83,8 @@ command.commands.teleport.entity.success_single_entity=%s téléporté à %s
 command.commands.teleport.entity.success_multiple_entities=%s entités téléportées à %s
 command.commands.teleport.location.success_single_entity=%s téléporté à %s, %s, %s
 command.commands.teleport.location.success_multiple_entities=%s entités téléportées à %s, %s, %s
+command.commands.teleport.dimension.success_single_entity=Teleported %s to dimension %s
+command.commands.teleport.dimension_location.success_single_entity=Teleported %s to dimension %s at %s, %s, %s
 command.commands.setblock.exception_failure=Impossible de placer le bloc
 command.commands.setblock.success=Bloc changé à %s, %s, %s
 command.commands.message.incoming=%s vous chuchote : %s
@@ -193,6 +195,7 @@ command.commands.whitelist.remove.success='%s' retiré·e de la liste blanche
 command.commands.whitelist.remove.fail.wrong_name=Échec du retrait de '%s' de la liste blanche
 command.commands.whitelist.exception_failure=Échec du traitement de la commande de liste blanche pour '%s'
 
+#command.commands.save.exception_failure
 command.commands.save.start=Démarrage de la sauvegarde forcée
 command.commands.save.end=Sauvegarde terminée
 command.commands.save.on=Activation de la sauvegarde automatique
@@ -200,6 +203,7 @@ command.commands.save.off=Désactivation de la sauvegarde automatique
 command.commands.save.interval=Définition de l'intervalle de sauvegarde sur %s
 command.commands.save.amount=Définition du nombre maximum de chunks sauvegardés sur %s
 
+#command.commands.mobspawning.exception_failure
 command.commands.mobspawning.set=%s défini sur %s
 command.commands.mobspawning.passive=Apparition passive définie sur %s
 command.commands.mobspawning.hostile=Apparition hostile définie sur %s

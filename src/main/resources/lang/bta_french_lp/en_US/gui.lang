@@ -262,6 +262,7 @@ gui.options.page.debug.button.cheat=Activer les triches
 gui.options.page.debug.button.crash.soft=Crash froid
 gui.options.page.debug.button.crash.hard=Crash chaud
 gui.options.page.debug.button.music.skip=Forcer la musique ambient
+gui.options.page.debug.button.garbage_collect=Exécuter le collecteur de déchets
 
 gui.options.page.search.title=Rechercher
 

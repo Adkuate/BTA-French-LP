@@ -6,6 +6,7 @@
 
 ### Changes
 
+* Added translation to the new content from versions 7.3_02 and 7.3_03
 * Moved the mod structure to Turnip Labs's model
   * It's now available as both a mod and a language pack
 * Updated the translation for the following files:
@@ -16,7 +17,7 @@
 
 ### Changes
 
-* Added translation to the new blocks from version 7.3_01
+* Added translation to the new content from version 7.3_01
 * Updated the package's description
 * Updated the translation for the following files:
     * `gui.lang`, `guidebook.lang`, `item.lang`, `options.lang`, `strings.lang`, `subtitles.lang`, `tile.lang`
