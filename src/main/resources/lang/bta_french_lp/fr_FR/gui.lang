@@ -1,0 +1,403 @@
+gui.achievement.label.get=Succès obtenu !
+gui.achievement.label.unlicensed.1=Better than Adventure! %s Unlicensed Copy :(
+gui.achievement.label.unlicensed.2=(Or logged in from another location)
+gui.achievement.label.unlicensed.3=Purchase at minecraft.net
+
+gui.achievements.button.done=Terminer
+gui.achievements.label.title=Succès
+gui.achievements.label.taken=Obtenu !
+gui.achievements.label.requires=Nécessite '%1$s'
+gui.achievements.label.completion=%1$s completé !
+
+gui.achievements.page.vanilla.name=Vanilla
+gui.achievements.page.vanilla.desc=Succès de Better than Adventure!
+gui.achievements.page.overworld.name=Monde
+gui.achievements.page.overworld.desc=Succès de la dimension initiale !
+gui.achievements.page.nether.name=Nether
+gui.achievements.page.nether.desc=Succès depuis l'Enfer !
+
+gui.add_server.label.title=Nouveau serveur
+gui.add_server.button.save=Sauvegarder
+gui.add_server.button.cancel=Annuler
+gui.add_server.button.show_ip=Afficher l'IP : %s
+gui.add_server.button.show_ip.on=OUI
+gui.add_server.button.show_ip.off=NON
+gui.add_server.label.server_name=Nom du serveur
+gui.add_server.label.ip_address=Adresse IP
+
+gui.bad_java_arch.label.title=32-bit Java detected!
+gui.bad_java_arch.label.body.1=It looks like you're running Better than Adventure on 32-bit Java.
+gui.bad_java_arch.label.body.2=This can cause problems with memory allocation, including lag spikes
+gui.bad_java_arch.label.body.3=and potentially crashes.
+gui.bad_java_arch.label.body.4=Please consider downloading a 64-bit JRE such as Eclipse Temurin.
+gui.bad_java_arch.button.download=Télécharger
+gui.bad_java_arch.button.continue=Continuer
+
+gui.no_jce.label.title=Java Cryptography Extension (JCE) not present!
+gui.no_jce.label.body.1=It looks like you're running Better than Adventure! without JCE.
+gui.no_jce.label.body.2=This will break some network related features like downloading
+gui.no_jce.label.body.3=sounds and multiplayer chatting!
+gui.no_jce.label.body.4=Please consider downloading a more up to date JRE
+gui.no_jce.label.body.5=with the extension included such as Eclipse Temurin.
+gui.no_jce.label.body.intel.disclaimer.1=Due to hardware compatibility issues on Intel Graphics hardware
+gui.no_jce.label.body.intel.disclaimer.2=you will likely have to patch your existing Java install to
+gui.no_jce.label.body.intel.disclaimer.3=include the JCE extension.
+gui.no_jce.button.download.recommended=Java Download (Recommended!)
+gui.no_jce.button.download=Java Download
+gui.no_jce.button.upgrade=JCE Patch
+gui.no_jce.button.upgrade.recommended=JCE Patch (Recommended!)
+gui.no_jce.button.continue=Continuer
+
+gui.no_minecraft.label.title=Minecraft Beta 1.7.3 is Missing!
+gui.no_minecraft.label.body.1=It looks like you're running Better than Adventure! without Minecraft Beta 1.7.3.
+gui.no_minecraft.label.body.2=Better than Adventure! must be installed with an official copy of
+gui.no_minecraft.label.body.3=Minecraft Beta 1.7.3 in order to function properly.
+gui.no_minecraft.label.body.4=This issue normally happens if you made a mistake in the installation process.
+gui.no_minecraft.label.body.5=Please review the install guide linked below.
+gui.no_minecraft.button.guide=Guide d'installation
+gui.no_minecraft.button.quit=Quitter le jeu
+
+
+gui.conflict_warning.label.title=Level safe conflict
+gui.conflict_warning.label.body.1=Minecraft detected a conflict in the level save data.
+gui.conflict_warning.label.body.2=This could be caused by two copies of the game
+gui.conflict_warning.label.body.3=accessing the same level.
+gui.conflict_warning.label.body.4=To prevent level corruption, the current game has quit.
+gui.conflict_warning.button.back=Retour au menu principal
+
+gui.connect_failed.label.title=Échec de la connexion au serveur
+gui.connect_failed.button.back=Retour au menu principal
+
+gui.connect_to_ip.button.connect=Rejoindre
+gui.connect_to_ip.button.cancel=Annuler
+gui.connect_to_ip.label.title=Se connecter à l'IP
+gui.connect_to_ip.label.enter_ip=Saisir l'IP du serveur pour s'y connecter :
+
+gui.connecting.button.cancel=Annuler
+gui.connecting.label.connecting=Connexion au serveur...
+gui.connecting.label.logging_in=Connexion...
+
+gui.controller_setup.button.back=Retour
+gui.controller_setup.label.no_controller_selected=Aucune manette sélectionnée !
+
+gui.crafting.label.crafting=Fabrication
+gui.crafting.label.inventory=Inventaire
+
+gui.create_world.label.title=Créer un nouveau monde
+gui.create_world.label.world_name=Nom du monde
+gui.create_world.label.seed=Graine pour la génération du monde
+gui.create_world.button.create_new_world=Créer un nouveau monde
+gui.create_world.button.cancel=Annuler
+gui.create_world.button.gamemode=Mode : %s
+gui.create_world.button.cheats=Triches : %s
+gui.create_world.button.cheats.on=OUI
+gui.create_world.button.cheats.off=NON
+gui.create_world.button.world_type=Type de monde : %s
+gui.create_world.label.new_world=Nouveau monde
+gui.create_world.label.select_world_type=Sélectionner le type de monde
+
+gui.create_world.label.title=Créer un nouveau monde
+gui.create_world.button.cancel=Annuler
+gui.create_world.button.create_world=Créer le monde
+
+gui.create_world.pages.general.title=Général
+gui.create_world.pages.general.label.world_name=Nom du monde
+gui.create_world.pages.general.label.world_seed=Graine du monde
+gui.create_world.pages.world_settings.title=Paramètres du monde
+gui.create_world.pages.game_rules.title=Règles du jeu
+
+gui.dispenser.label.dispenser=Distributeur
+gui.dispenser.label.inventory=Inventaire
+
+gui.activator.label.activator=Activateur
+gui.activator.label.inventory=Inventaire
+
+gui.downloading_terrain.label.title=Téléchargement du terrain
+
+gui.edit_flag.label.inventory=Inventaire
+
+gui.edit_label.label.title=Modifier le texte de l'étiquette :
+gui.edit_label.button.done=Terminer
+
+gui.edit_sign.label.title=Modifier le message du panneau :
+gui.edit_sign.button.done=Terminer
+
+gui.exception.label.exception_occurred=An exception has occurred!
+gui.exception.label.fatal_error=A fatal error has occurred!
+gui.exception.label.startup_error=Minecraft has failed to start!
+gui.exception.button.copy_error=Copy error
+gui.exception.button.copy_error_and_quit=Copy error and quit
+gui.exception.button.back=Retour au menu principal
+
+gui.furnace.label.furnace=Fourneau
+gui.furnace.blast.label.blast_furnace=Haut fourneau
+gui.furnace.label.inventory=Inventaire
+
+gui.game_over.label.title=Vous êtes mort·e !
+gui.game_over.label.score=Score : %s
+gui.game_over.button.respawn=Ressusciter
+gui.game_over.button.respawn.spectator=Spectateur
+gui.game_over.button.title_screen=Menu principal
+
+gui.guidebook.label.title=Guide d'utilisation
+
+gui.ingame.label.now_playing=En cours de lecture : %s
+
+gui.ingame_menu.label.title=Menu du jeu
+gui.ingame_menu.label.score=Score : %s
+gui.ingame_menu.label.saving=Sauvegarde en cours...
+gui.ingame_menu.button.save_and_quit=Sauvegarder et quitter la partie
+gui.ingame_menu.button.disconnect=Se déconnecter
+gui.ingame_menu.button.back_to_game=Reprendre la partie
+gui.ingame_menu.button.options=Options...
+gui.ingame_menu.button.photo_mode=Mode photo...
+gui.ingame_menu.button.achievements=Succès
+gui.ingame_menu.button.statistics=Statistiques
+
+gui.inventory.label.crafting=Fabrication
+gui.inventory.creative.label.search=Rechercher...
+
+gui.loading.label.generating=Génération du niveau...
+gui.loading.label.loading=Chargement du niveau...
+gui.loading.label.entering=Entrer %s...
+gui.loading.label.leaving=Partir %s...
+
+gui.main_menu.label.splash.jonkadelic_birthday=Bonne anniversaire, Jonkadelic !
+gui.main_menu.label.splash.maggandgeez_birthday=Bonne anniversaire, MaggAndGeez !
+gui.main_menu.label.splash.minecraft_birthday=Bonne anniversaire, Minecraft !
+gui.main_menu.label.splash.bta_birthday=Bonne anniversaire, Better than Adventure !
+gui.main_menu.label.splash.xmas=Joyeux Noël !
+gui.main_menu.label.splash.halloween=Joyeux Halloween !
+gui.main_menu.label.splash.new_year=Bonne année !
+gui.main_menu.label.disclaimer.1=Copyright Mojang Studios. N'est pas un produit officiel de Minecraft.
+gui.main_menu.label.disclaimer.2=Non approuvé par ou associé à Mojang Studios ou Microsoft.
+gui.main_menu.label.downloading_resources.1=Téléchargement de ressources : %s / %s
+gui.main_menu.label.downloading_resources.2=Il se peut que les sons ne soient pas diffusés pendant ce processus !
+gui.main_menu.button.singleplayer=Solo
+gui.main_menu.button.multiplayer=Multijoueur
+gui.main_menu.button.multiplayer.disabled=Multijoueur (pas encore prêt !)
+gui.main_menu.button.texture_packs=Packs de textures
+gui.main_menu.button.options=Options...
+gui.main_menu.button.quit_game=Quitter le jeu
+gui.main_menu.button.discord=Discord (Anglais)
+gui.main_menu.button.youtube=YouTube (Anglais)
+gui.main_menu.button.website=Site web (Anglais)
+gui.main_menu.button.credits=Crédits
+
+gui.out_of_memory.label.title=Out of memory!
+gui.out_of_memory.label.body.1=Minecraft has run out of memory.
+gui.out_of_memory.label.body.2=This could be caused by a bug in the game or by the
+gui.out_of_memory.label.body.3=Java Virtual Machine not being allocated enough
+gui.out_of_memory.label.body.4=memory.
+gui.out_of_memory.label.body.5=To prevent level corruption, the current game has quit.
+gui.out_of_memory.label.body.6=Please restart the game.
+
+gui.options.title=Options
+gui.options.button.done=Terminer
+gui.options.label.select_page=Sélectionner une page
+gui.options.label.picking_keybinding=Appuyez sur une touche ou un bouton de la souris pour en faire le raccourci clavier de la fonction '%s'.
+
+gui.options.page.general.title=Général
+gui.options.page.general.button.open_worlds_folder=Ouvrir le dossier de mondes
+gui.options.page.general.button.open_screenshots_folder=Ouvrir le dossier de captures d'écran
+gui.options.page.general.button.edit_hud=Modifier l'IU...
+gui.options.page.general.category.gameplay=Gameplay
+gui.options.page.general.category.user_interface=Interface utilisateur
+gui.options.page.general.category.miscellaneous=Autres
+
+gui.options.page.audio.title=Audio
+gui.options.page.audio.category.audio=Audio
+gui.options.page.audio.category.debug=Débogage
+
+gui.options.page.accessibility.title=Accessibilité
+gui.options.page.accessibility.category.accessibility=Accessibilité
+
+gui.options.page.video.title=Vidéo
+gui.options.page.video.category.graphics=Graphiques
+gui.options.page.video.category.performance=Performance
+gui.options.page.video.category.post_processing=Post-processing
+gui.options.page.video.category.visuals=Visuels
+
+gui.options.page.controls.title=Contrôles
+gui.options.page.controls.button.controller_setup=Configuration de la manette...
+gui.options.page.controls.button.key.unbound=Délier
+gui.options.page.controls.category.mouse=Souris
+gui.options.page.controls.category.keyboard=Clavier
+gui.options.page.controls.category.controller=Manette
+gui.options.page.controls.category.interactions=Interactions
+gui.options.page.controls.category.movement=Mouvement
+gui.options.page.controls.category.user_interface=Interface utilisateur
+gui.options.page.controls.category.hotbar=Barre d'actions
+gui.options.page.controls.category.view=Observer
+gui.options.page.controls.category.miscellaneous=Autres
+
+gui.options.page.texture_packs.title=Packs de textures
+gui.options.page.texture_packs.category.textures=Textures
+gui.options.page.texture_packs.category.texture_packs.available=Packs de textures disponibles
+gui.options.page.texture_packs.category.texture_packs.selected=Packs de textures sélectionnés
+gui.options.page.texture_packs.button.open_folder=Ouvrir le dossier
+gui.options.page.texture_packs.button.apply=Appliquer le pack de textures
+gui.options.page.texture_packs.label.no_packs=Packs de textures introuvable :(
+gui.options.page.texture_packs.label.outdated_pack.1=Pack périmé !
+gui.options.page.texture_packs.label.outdated_pack.2=Ce pack n'a pas été conçu pour cette version de BTA !
+
+gui.options.page.language_packs.title=Packs de langages
+gui.options.page.language_packs.category.language_packs=Packs de langages
+gui.options.page.language_packs.button.open_folder=Ouvrir le dossier
+
+gui.options.page.debug.title=Menu de débogage
+gui.options.page.debug.category.controls=Contrôles de débogage
+gui.options.page.debug.category.utility=Utilitaires
+gui.options.page.debug.category.settings=Paramètres
+gui.options.page.debug.category.test=Tests
+gui.options.page.debug.button.open.model_viewer=Ouvrir le visualiseur de modèle
+gui.options.page.debug.button.open.biome_finder=Ouvrir le visualiseur de graine
+gui.options.page.debug.button.open.datadumper=Exécuter l'extracteur de données
+gui.options.page.debug.button.open.sound_test=Ouvrir le test sonore
+gui.options.page.debug.button.open.texture_viewer=Ouvrir le visualiseur de texture
+gui.options.page.debug.button.open.achievements=Ouvrir les progrès
+gui.options.page.debug.button.wipestats=Supprimer les statistiques
+gui.options.page.debug.button.unlockedall=Débloquer tous les statistiques
+gui.options.page.debug.button.cheat=Activer les triches
+gui.options.page.debug.button.crash.soft=Crash froid
+gui.options.page.debug.button.crash.hard=Crash chaud
+gui.options.page.debug.button.music.skip=Forcer la musique ambient
+
+gui.options.page.search.title=Rechercher
+
+gui.sound_test.label.title=Test sonore
+gui.sound_test.label.repo=Répertoire des sons : %s
+gui.sound_test.label.id=ID : %s
+gui.sound_test.label.subtitle=Sous-titres : %s | %s
+gui.sound_test.label.url=URL : %s
+gui.sound_test.label.select_repo=Sélectionner le répertoire :
+gui.sound_test.label.select_entry=Sélectionner l'entrée :
+gui.sound_test.button.done=Terminer
+gui.sound_test.button.play=Jouer
+gui.sound_test.button.play_stream=Lire le flux
+gui.sound_test.button.reload=Recharger
+gui.sound_test.button.stop=Stopper
+
+gui.texture_viewer.label.title=Visualiseur de textures
+
+gui.photo_mode.label.mouse_hint=Cliquer et glisser pour déplacer et pivoter.
+gui.photo_mode.button.take_screenshot=Prendre une capture d'écran
+gui.photo_mode.button.center_camera=Centrer la caméra
+gui.photo_mode.button.show_player=Afficher le joueur : %s
+gui.photo_mode.button.show_player.on=OUI
+gui.photo_mode.button.show_player.off=NON
+gui.photo_mode.button.time_of_day=Heure de la journée : %s
+gui.photo_mode.button.time_of_day.default=DEFAULT
+gui.photo_mode.button.season=Saison : %s
+gui.photo_mode.button.season.default=DEFAULT
+gui.photo_mode.button.fog=Brouillard : %s
+gui.photo_mode.button.tilt=Inclinaison : %s
+gui.photo_mode.button.tilt.default=DEFAULT
+gui.photo_mode.button.shader=Filtre : %s
+gui.photo_mode.button.shader.none=NONE
+gui.photo_mode.button.intensity=Intensité : %s
+
+gui.select_server.label.title=Multijoueur
+gui.select_server.label.delete_title=Supprimer le serveur
+gui.select_server.label.delete_confirm.1=Êtes-vous sûr de vouloir supprimer ce serveur ?
+gui.select_server.label.delete_confirm.2='%s' sera perdue pour toujours ! (Très longtemps !)
+gui.select_server.label.edit.1=Modifier le serveur
+gui.select_server.label.edit.2=Nom du serveur
+gui.select_server.label.edit.3=Adresse du serveur
+gui.select_server.label.down=FERME
+gui.select_server.label.outdated=PÉRIMÉ
+gui.select_server.button.join_server=Rejoindre
+gui.select_server.button.direct_connect=Connexion rapide
+gui.select_server.button.add_server=Nouveau serveur
+gui.select_server.button.edit=Modifier
+gui.select_server.button.delete=Supprimer
+gui.select_server.button.refresh=Rafraîchir
+gui.select_server.button.cancel=Annuler
+gui.select_server.button.done=Terminer
+gui.select_server.button.show_ip=Afficher l'IP : %s
+gui.select_server.button.show_ip.on=OUI
+gui.select_server.button.show_ip.off=NON
+
+gui.select_world.label.title=Choix du monde
+gui.select_world.label.world=Monde %s
+gui.select_world.label.must_be_converted=Doit être converti !
+gui.select_world.label.dimension_corrupted=Erreur de dimension corrompue !
+gui.select_world.label.outdated=Périmé - ne peut être chargé (pour l'instant !)
+gui.select_world.label.delete_title=Supprimer ce monde
+gui.select_world.label.delete_confirm.1=Êtes-vous sûr de vouloir supprimer ce monde ?
+gui.select_world.label.delete_confirm.2='%s' sera perdue pour toujours ! (Très longtemps !)
+gui.select_world.label.rename_title=Renommer le monde
+gui.select_world.label.world_name=Nom du monde
+gui.select_world.label.cheats=Triches
+gui.select_world.label.unknown=INCONNU
+gui.select_world.button.play_selected_world=Jouer dans ce monde
+gui.select_world.button.rename=Renommer
+gui.select_world.button.create_new_world=Créer un nouveau monde
+gui.select_world.button.delete=Supprimer
+gui.select_world.button.cancel=Annuler
+
+gui.sleeping.leave_bed=Quitter le lit
+gui.sleeping.multiplayer.leave_bed=Quitter le lit
+
+gui.statistics.label.title=Statistiques
+gui.statistics.label.times_used=Temps d'utilisation
+gui.statistics.label.times_mined=Temps d'exploitation
+gui.statistics.label.times_depleted=Temps d'épuisement
+gui.statistics.label.times_crafted=Temps de fabrication
+gui.statistics.button.done=Terminer
+gui.statistics.button.general=Général
+gui.statistics.button.blocks=Blocs
+gui.statistics.button.items=Objets
+
+gui.trommel.label.trommel=Tamis rotatif
+gui.trommel.label.inventory=Inventaire
+
+gui.hud_designer.button.done=Terminer
+
+gui.pick_monster.label.title=Sélectionner le mob à apparaitre
+
+gui.model_viewer.slider.variant=Variant : %d
+gui.model_viewer.slider.meta=Méta : %d
+gui.model_viewer.button.tickprogress=Exécuter la tique : %s
+gui.model_viewer.button.rotate=Pivoter les étiquettes : %s
+gui.model_viewer.button.reload_textures=Recharger les textures
+gui.model_viewer.button.category=Catégorie
+
+model.category.entity.info=Entité : %s
+model.category.entity.name=Entité
+model.category.entity.tnt.slider.fuse=Fusionner : %d
+model.category.entity.sheep.slider.color=Couleur : %s
+model.category.entity.painting.slider.motif=Peinture : %s
+model.category.entity.fireflycluster.slider.size=Taille : %d
+model.category.entity.fireflycluster.button.cycle=Couleur : %s
+model.category.entity.item.button.cycle=Cycle objet
+model.category.entity.item.slider.size=Taille : %d
+model.category.entity.sand.button.cycle=Cycle bloc
+model.category.entity.creeper.button.charged=Chargé : %s
+model.category.entity.armored_zombie.button.sword=Epée : %s
+model.category.entity.wolf.button.tamed=Apprivoisé : %s
+model.category.entity.wolf.button.sitting=Assis : %s
+model.category.entity.wolf.button.angry=En colère : %s
+model.category.entity.wolf.button.armor=Armure : %s
+model.category.entity.wolf.button.item=Objet : %s
+model.category.entity.boat.button.flag=Drapeau : %s
+model.category.entity.boat.button.wind=Vent : %s degrees
+model.category.entity.slime.slider.size=Slime : %s
+model.category.entity.minecart.button.cycle=Cycle Minecart
+model.category.entity.minecart.slider.color=Couleur : %s
+
+model.category.block.name=Bloc
+model.category.block.info=Bloc : %s
+model.category.block.basket.slider.fill=Rempli : %s
+model.category.block.spawner.button.id=Mob : %s
+
+model.category.particle.name=Particule
+model.category.particle.info=Particule : %s
+model.category.particle.radius.slider=Rayon : %s
+model.category.particle.note.slider=Note : %s
+model.category.particle.block.side=Côté : %s
+
+gui.credits.button.done=Terminer
+gui.credits.label.title=Crédits
+
+gui.tooltip.prompt.description=%s : Afficher plus...
