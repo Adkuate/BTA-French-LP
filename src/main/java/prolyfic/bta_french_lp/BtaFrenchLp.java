@@ -18,21 +18,21 @@ public class BtaFrenchLp implements ModInitializer, RecipeEntrypoint, GameStartE
 
     @Override
     public void onRecipesReady() {
-
+        // TODO document why this method is empty
     }
 
     @Override
     public void initNamespaces() {
-
+        // TODO document why this method is empty
     }
 
     @Override
     public void beforeGameStart() {
-
+        // TODO document why this method is empty
     }
 
     @Override
     public void afterGameStart() {
-
+        // TODO document why this method is empty
     }
 }
