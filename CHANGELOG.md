@@ -2,6 +2,14 @@
 
 ----
 
+## 1.0.4 - 05-11-2025
+
+### Changes
+
+* Uses [HalpLibe](https://github.com/Turnip-Labs/bta-halplibe) for the mod
+* Updated the translation for the following files:
+  * `info.lang`, `strings.lang`, `tile.lang`
+
 ## 1.0.3 - 05-10-2025
 
 ### Changes
@@ -42,7 +50,5 @@
 * Fixed few overflowing descriptions
 
 ## 1.0.0 - 02-20-2025
-
-### Changes
 
 * Created the French (France) language package for BTA 7.3_01

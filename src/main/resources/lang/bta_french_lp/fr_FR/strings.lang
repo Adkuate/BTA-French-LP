@@ -150,13 +150,13 @@ record.ward=Ward
 record.wait=Wait
 record.dog=Dog
 
-flag.full=You have too many flags on this map!
-flag.overwrite=Cannot overwrite an existing pattern.
-flag.copied=Flag pattern copied.
+flag.full=Il y a trop de drapeaux sur cette carte !
+flag.overwrite=Impossible d'écraser un modèle existant.
+flag.copied=Modèle de drapeau copié.
 
-wand.wrongmode=You must be in Creative mode to use this item!
+wand.wrongmode=Vous devez être en mode créatif pour utiliser cet article !
 
-save.data.missing.data=Level Metadata Missing!
+save.data.missing.data=Niveau métadonnées manquantes !
 
 unit.day=Jour
 
@@ -184,7 +184,7 @@ container.flag.name=Drapeau
 container.furnace.name=Fourneau
 container.furnace_blast.name=Haut fourneau
 container.trommel.name=Tamis rotatif
-container.minecart.name=Waggonet
+container.minecart.name=Wagonnet
 container.crafting.name=Fabrication
 container.inventory.name=Inventaire
 container.result.name=Résultat
