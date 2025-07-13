@@ -176,6 +176,7 @@ options.chatVisibility.never_show=Jamais
 options.enableHolidayTextures=Activer les textures festivals
 options.enableDevResourceLoading=Chargement des ressources du développeur
 options.enableMultiDrawRendering=Activer le moteur de rendu multi-draw (expérimentale !)
+options.doJCECheck=Fait une vérification de JCE
 
 options.fov.modification=Modification contextuelle du champ de vision
 options.screen.motion.effects=Effets de mouvement d'écran
@@ -241,6 +242,7 @@ key.immersiveMode=Mode immersif
 key.switchPerspective=Changer de point de vue
 key.screenshot=Capture d'écran
 key.cinematicCamera=Basculer en mode cinématique
+key.fullscreen=Basculer en plein écran
 key.autoWalk=Marche automatique
 key.easyBridge=Basculer en mode pont facile
 key.sprint=Courrir (si activé)

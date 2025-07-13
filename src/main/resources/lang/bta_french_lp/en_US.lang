@@ -698,8 +698,8 @@ guidebook.section.mob.ghast.name=Ghast
 guidebook.section.mob.ghast.desc=Les Ghasts sont de grandes créatures volantes qui vous lancent des boules de feu. On les trouve dans le Nether.
 guidebook.section.mob.zombie_pigman.name=Cochon-zombie
 guidebook.section.mob.zombie_pigman.desc=Les cochons-zombie sont un ennemi commun dans le Nether. Ils sont neutres à moins d'être provoqués.
-guidebook.section.mob.snowman.name=Homme de neige
-guidebook.section.mob.snowman.desc=Les hommes des neiges sont des sortes de zombies qui n'apparaissent que dans les endroits les plus froids du monde et qui lancent des boules de neige pour dissuader les attaquants.
+guidebook.section.mob.snowman.name=Bonhomme de neige
+guidebook.section.mob.snowman.desc=Les bonhommes des neiges sont des sortes de zombies qui n'apparaissent que dans les endroits les plus froids du monde et qui lancent des boules de neige pour dissuader les attaquants.
 guidebook.section.mob.armored_zombie.name=Zombie blindé
 guidebook.section.mob.armored_zombie.desc=Une variante plus mortelle du zombie ordinaire, les zombies blindés portent une armure en mailles et brandissent parfois une épée.
 
@@ -2405,7 +2405,7 @@ tile.deadbush.desc=Un arbuste desséché et flétri.
 tile.spinifex.name=Spinifex
 tile.spinifex.desc=Une herbe fine et épineuse des régions sèches.
 tile.algae.name=Algue
-tile.algae.desc=Végétation gluante qui flotte à la surface de l'eau.
+tile.algae.desc=Une végétation gluante qui flotte à la surface de l'eau.
 
 tile.flower.yellow.name=Pissenlit
 tile.flower.yellow.desc=Une belle fleur jaune.
