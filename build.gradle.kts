@@ -105,13 +105,13 @@ dependencies {
     implementation("com.google.guava:guava:33.0.0-jre")
     implementation("com.google.code.gson:gson:2.10.1")
 
-    val log4jVersion = "2.20.0"
+    val log4jVersion = "2.25.1"
     implementation("org.apache.logging.log4j:log4j-core:$log4jVersion")
     implementation("org.apache.logging.log4j:log4j-api:$log4jVersion")
     implementation("org.apache.logging.log4j:log4j-1.2-api:$log4jVersion")
 
-    implementation("org.apache.commons:commons-lang3:3.12.0")
-    include("org.apache.commons:commons-lang3:3.12.0")
+    implementation("org.apache.commons:commons-lang3:3.18.0")
+    include("org.apache.commons:commons-lang3:3.18.0")
 
     modImplementation("com.github.Better-than-Adventure:legacy-lwjgl3:1.0.5")
     implementation(platform("org.lwjgl:lwjgl-bom:$lwjglVersion"))
