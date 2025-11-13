@@ -1,26 +1,23 @@
 {
-  "schemaVersion": 1,
-  "id": "examplemod",
-  "version": "${version}",
-
-  "name": "Example Mod",
-  "description": "This mod aims to help new BTA modders.",
-  "authors": [
-    "Turnip Labs"
-  ],
-  "contact": {
-    "homepage": "",
-    "sources": ""
-  },
-
+	"schemaVersion": 1,
+	"id": "examplemod",
+	"version": "${version}",
+	"name": "Example Mod",
+	"description": "This mod aims to help new BTA modders.",
+	"authors": [
+		"Turnip Labs"
+	],
+	"contact": {
+		"homepage": "",
+		"sources": ""
+	},
 	"icon": "icon.png",
-  "license": "CC0-1.0",
-
-  "environment": "*",
-  "entrypoints": {
-    "main": [
+	"license": "CC0-1.0",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
 			"turniplabs.examplemod.ExampleMod"
-    ],
+		],
 		"beforeGameStart": [
 			"turniplabs.examplemod.ExampleMod"
 		],
@@ -31,14 +28,16 @@
 			"turniplabs.examplemod.ExampleMod"
 		]
 	},
-  "mixins": [
-      "examplemod.mixins.json"
-  ],
-
-  "depends": {
+	"mixins": [
+		"examplemod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=${fabricloader}",
+		"halplibe": ">=${halplibe}",
 		"minecraft": "*",
-    "fabricloader": ">=0.15.5"
-  },
-  "suggests": {
-  }
+		"java": ">=${java}"
+	},
+	"suggests": {
+		"modmenu": ">=${modmenu}"
+	}
 }
