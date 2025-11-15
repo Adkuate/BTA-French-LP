@@ -23,6 +23,7 @@ val btaChannel = providers.gradleProperty("bta_channel")
 val btaVersion = providers.gradleProperty("bta_version")
 
 val loaderVersion = providers.gradleProperty("loader_version")
+val legacyLwjglVersion = providers.gradleProperty("legacy_lwjgl_version")
 
 val halplibeVersion = providers.gradleProperty("halplibe_version")
 val modMenuVersion = providers.gradleProperty("mod_menu_version")
@@ -79,7 +80,7 @@ dependencies {
     modImplementation("turniplabs:halplibe:${halplibeVersion.get()}")
 	modImplementation("turniplabs:modmenu-bta:${modMenuVersion.get()}")
 	modImplementation("net.fabricmc:fabric-loader:${loaderVersion.get()}")
-	modImplementation("com.github.Better-than-Adventure:legacy-lwjgl3:1.0.5")
+	modImplementation("com.github.Better-than-Adventure:legacy-lwjgl3:${legacyLwjglVersion.get()}")
 
 	implementation(platform("org.lwjgl:lwjgl-bom:${lwjglVersion.get()}"))
 	implementation("org.slf4j:slf4j-api:${slf4jApiVersion.get()}")
@@ -165,10 +166,13 @@ tasks {
 				)
 			)
 		}
-		filesMatching("*.mixins.json") { expand(mapOf("java" to stringJavaVersion)) }
+		filesMatching("**/*.mixins.json") { expand(mapOf("java" to stringJavaVersion)) }
 	}
 	java {
-		toolchain.languageVersion = JavaLanguageVersion.of(javaVersion.get())
+		toolchain {
+			languageVersion = JavaLanguageVersion.of(javaVersion.get())
+			vendor = JvmVendorSpec.ADOPTIUM
+		}
 		sourceCompatibility = JavaVersion.toVersion(javaVersion.get().toInt())
 		targetCompatibility = JavaVersion.toVersion(javaVersion.get().toInt())
 		withSourcesJar()
