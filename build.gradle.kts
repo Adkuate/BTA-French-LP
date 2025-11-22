@@ -113,7 +113,7 @@ dependencies {
     implementation("org.apache.commons:commons-lang3:3.18.0")
     include("org.apache.commons:commons-lang3:3.18.0")
 
-    modImplementation("com.github.Better-than-Adventure:legacy-lwjgl3:1.0.5")
+    modImplementation("com.github.Better-than-Adventure:legacy-lwjgl3:1.0.6")
     implementation(platform("org.lwjgl:lwjgl-bom:$lwjglVersion"))
 
     runtimeOnly("org.lwjgl:lwjgl::$lwjglNatives")
