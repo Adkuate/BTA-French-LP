@@ -186,7 +186,7 @@ gui.main_menu.button.youtube=YouTube (Anglais)
 gui.main_menu.button.website=Site web (Anglais)
 gui.main_menu.button.credits=Crédits
 
-gui.out_of_memory.label.title=Plus de mémoire!
+gui.out_of_memory.label.title=Plus de mémoire !
 gui.out_of_memory.label.body.1=Minecraft manque de mémoire.
 gui.out_of_memory.label.body.2=Cela peut être dû à un bogue dans le jeu ou au fait que
 gui.out_of_memory.label.body.3=Java Virtual Machine n'a pas reçu suffisamment de
