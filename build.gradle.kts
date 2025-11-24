@@ -3,7 +3,7 @@
 import org.apache.tools.ant.taskdefs.condition.Os
 
 plugins {
-    id("fabric-loom") version "1.10.0-bta"
+    id("fabric-loom") version "1.13.6"
     id("java")
 }
 
