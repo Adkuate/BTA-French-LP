@@ -102,7 +102,7 @@ dependencies {
     implementation("org.slf4j:slf4j-api:1.8.0-beta4")
     implementation("org.apache.logging.log4j:log4j-slf4j18-impl:2.16.0")
 
-    implementation("com.google.guava:guava:33.0.0-jre")
+    implementation("com.google.guava:guava:33.5.0-jre")
     implementation("com.google.code.gson:gson:2.10.1")
 
     val log4jVersion = "2.25.1"
