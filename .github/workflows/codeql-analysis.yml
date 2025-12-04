@@ -10,8 +10,9 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        language:
-          - java-kotlin
+        include:
+          - language: java
+            build-mode: none
         on:
           - ubuntu-20
           - ubuntu-22
@@ -36,7 +37,7 @@ jobs:
       - name: Initialize CodeQL
         uses: github/codeql-action/init@v4
         with:
-          languages: ${{ matrix.language }}
+          languages: ${{ matrix.include }}
           build-mode: manual
 
       - name: Set up JDK 21
@@ -51,4 +52,4 @@ jobs:
       - name: Perform CodeQL analysis
         uses: github/codeql-action/analyze@v4
         with:
-          category: "/language:${{matrix.java}}"
+          category: "/language:${{matrix.include}}"
