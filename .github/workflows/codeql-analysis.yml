@@ -23,7 +23,7 @@ jobs:
           - windows-2022
 
     name: Analyze
-    runs-on: ${{ matrix.os }}
+    runs-on: ${{ matrix.on }}
     permissions:
       actions: read
       contents: read
