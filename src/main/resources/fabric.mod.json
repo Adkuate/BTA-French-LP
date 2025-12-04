@@ -1,42 +1,45 @@
 {
-  "schemaVersion": 1,
-  "id": "bta_french_lp",
-  "version": "${version}",
-  "name": "BTA! French Language pack",
-  "description": "French language pack for Better Than Adventure!",
-  "authors": [
+	"schemaVersion": 1,
+	"id": "bta_french_lp",
+	"version": "${version}",
+	"name": "BTA! French Language pack",
+	"description": "French language pack for Better Than Adventure!",
+	"authors": [
 		"RatonGuerrier",
 		"Vazanoir",
 		"Prolyfic"
-  ],
-  "contact": {
-    "homepage": "",
-    "sources": ""
-  },
-  "icon": "icon.png",
-  "license": "CC0-1.0",
-  "environment": "*",
-  "entrypoints": {
-    "main": [
-      "prolyfic.bta_french_lp.BtaFrenchLp"
-    ],
-    "beforeGameStart": [
-      "prolyfic.bta_french_lp.BtaFrenchLp"
-    ],
-    "afterGameStart": [
-      "prolyfic.bta_french_lp.BtaFrenchLp"
-    ],
-    "recipesReady": [
-      "prolyfic.bta_french_lp.BtaFrenchLp"
-    ]
-  },
-  "mixins": [
-    "bta_french_lp.mixins.json"
-  ],
-  "depends": {
-    "minecraft": "*",
-    "fabricloader": ">=0.15.5"
-  },
-  "suggests": {
-  }
+	],
+	"contact": {
+		"homepage": "",
+		"sources": ""
+	},
+	"icon": "icon.png",
+	"license": "CC0-1.0",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"prolyfic.bta_french_lp.BtaFrenchLp"
+		],
+		"beforeGameStart": [
+			"prolyfic.bta_french_lp.BtaFrenchLp"
+		],
+		"afterGameStart": [
+			"prolyfic.bta_french_lp.BtaFrenchLp"
+		],
+		"recipesReady": [
+			"prolyfic.bta_french_lp.BtaFrenchLp"
+		]
+	},
+	"mixins": [
+		"bta_french_lp.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=${fabricloader}",
+		"halplibe": ">=${halplibe}",
+		"minecraft": "*",
+		"java": ">=${java}"
+	},
+	"suggests": {
+		"modmenu": ">=${modmenu}"
+	}
 }

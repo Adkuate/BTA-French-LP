@@ -2,7 +2,18 @@
 
 ----
 
-## 1.0.6 - 24-08-2025
+## 1.0.7 - xx-xx-2025
+
+### Changes
+
+* Updated the mod to Turnip-Labs's latest commits for the template mod
+* Updated the translation in the following files:
+    * `gui.lang`
+* Added `modmenu.lang` for the Mod Menu mod
+    * Added missing keys from the French translation
+* Refactored mod
+
+## 1.0.6 - 08-24-2025
 
 ### Changes
 
@@ -12,7 +23,7 @@
     * `biomes.lang`, `command.lang`, `gui.lang`, `guidebook.lang`, `info.lang`, `item.lang`, `options.lang`,
       `stats.lang`, `strings.lang`, `tile.lang`, `tips.txt`
 
-## 1.0.5 - 13-07-2025
+## 1.0.5 - 07-13-2025
 
 ### Changes
 

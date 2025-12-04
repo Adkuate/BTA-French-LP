@@ -1,15 +1,12 @@
 {
   "required": true,
-  "minVersion": "0.8",
   "package": "prolyfic.bta_french_lp.mixin",
-  "compatibilityLevel": "JAVA_8",
-  "mixins": [
-    "I18nMixin",
-    "accessors.LanguageAccessor"
-  ],
-  "client": [
-  ],
+  "compatibilityLevel": "JAVA_${java}",
   "injectors": {
     "defaultRequire": 1
-  }
+  },
+  "mixins": [
+    "LanguageMixin"
+  ],
+  "client": []
 }
