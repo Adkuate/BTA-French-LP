@@ -4,22 +4,30 @@ on:
   push:
     branches:
       - main
-  schedule:
-    - cron: '0 0 * * 1'
 
 jobs:
   analyze:
+    strategy:
+      fail-fast: false
+      matrix:
+        java:
+          - 21
+        on:
+          - ubuntu-20
+          - ubuntu-22
+          - ubuntu-24
+          - macos-12
+          - macos-13
+          - macos-14
+          - windows-2019
+          - windows-2022
+
     name: Analyze
-    runs-on: ubuntu-24
+    runs-on: ${{ matrix.os }}
     permissions:
       actions: read
       contents: read
       security-events: write
-
-    strategy:
-      fail-fast: false
-      matrix:
-        language: [ 'java-kotlin' ]
 
     steps:
       - name: Checkout repository
@@ -28,7 +36,7 @@ jobs:
       - name: Initialize CodeQL
         uses: github/codeql-action/init@v3
         with:
-          languages: ${{ matrix.language }}
+          languages: ${{ matrix.java }}
           build-mode: manual
 
       - name: Set up JDK 21
@@ -43,4 +51,4 @@ jobs:
       - name: Perform CodeQL analysis
         uses: github/codeql-action/analyze@v3
         with:
-          category: "/language:${{matrix.language}}"
+          category: "/language:${{matrix.java}}"
