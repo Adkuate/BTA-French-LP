@@ -15,6 +15,8 @@ Currently available in French (France) only.
 * [Installation](#installation)
     * [As a mod](#as-a-mod)
     * [As a language pack](#as-a-language-pack)
+* [Misc.](#misc)
+    * [Comparison between the language pack and the mod file](#comparison-between-the-language-pack-and-the-mod-file)
 
 <!-- TOC -->
 
@@ -41,7 +43,9 @@ game" button at the main menu or in Options > Language Packs. Then, drag the `.z
 
 ---
 
-## Comparison between the language pack and the mod file
+## Misc.
+
+### Comparison between the language pack and the mod file
 
 The reason for making a mod file for this language pack is to be able to translate correctly any missing words and
 update the internationalization (i18n) functionality from within BTA!, such as the world name generator.
@@ -49,4 +53,5 @@ update the internationalization (i18n) functionality from within BTA!, such as t
 [//]: # (Here is the list of changes compared to the normal language pack file :)
 
 [//]: # ()
+
 [//]: # (* Updated name generator &#40;W.I.P.&#41;)

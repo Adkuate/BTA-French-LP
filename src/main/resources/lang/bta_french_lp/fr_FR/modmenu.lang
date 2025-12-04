@@ -1,4 +1,9 @@
-modmenu.sorting.ascending=A-Z
 modmenu.authors=Auteurs·rices
+modmenu.contributors=Contributeurs
 modmenu.licenses=Licences
+modmenu.deprecated=Obsolète
+modmenu.sorting=Trier par : %s
+modmenu.sorting.ascending=A-Z
+modmenu.sorting.decending=Z-A
 modmenu.minecraft=Minecraft
+modmenu.forge=Forge

@@ -10,6 +10,7 @@
 * Updated the translation in the following files:
     * `gui.lang`
 * Added `modmenu.lang` for the Mod Menu mod
+    * Added missing keys from the French translation
 * Refactored mod
 
 ## 1.0.6 - 08-24-2025

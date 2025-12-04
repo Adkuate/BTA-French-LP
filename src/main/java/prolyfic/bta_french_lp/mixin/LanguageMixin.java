@@ -5,9 +5,6 @@ import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.ModifyVariable;
 
-import java.util.Arrays;
-import java.util.List;
-
 @Mixin(value = Language.class, remap = false)
 public abstract class LanguageMixin {
 	private LanguageMixin() {
@@ -65,7 +62,7 @@ public abstract class LanguageMixin {
 	 * @return French (France) language
 	 */
 	@ModifyVariable(method = "<init>(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/util/List;Ljava/io/File;)V", at = @At("HEAD"), ordinal = 0, argsOnly = true)
-	private static String setDirectoryIdr(String id) {
+	private static String setDirectoryId(String id) {
 		return "fr_FR";
 	}
 
