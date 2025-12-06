@@ -7,11 +7,11 @@
 ### Changes
 
 * Updated the mod to Turnip-Labs's latest commits for the template mod
+    * Refactored the mod
 * Updated the translation in the following files:
-    * `gui.lang`
+    * `gui.lang`, `options.lang`, `strings.lang`
 * Added `modmenu.lang` for the Mod Menu mod
-    * Added missing keys from the French translation
-* Refactored mod
+    * Added missing key values from the French translation
 
 ## 1.0.6 - 08-24-2025
 
