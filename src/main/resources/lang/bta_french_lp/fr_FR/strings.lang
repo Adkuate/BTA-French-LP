@@ -91,7 +91,7 @@ bed.setSpawn=Point de réapparition défini.
 bed.notValid=Votre lit à disparu ou est obstrué.
 bed.noAllowSleeping=Le sommeil est désactivé.
 
-sign.image.none=aucun
+sign.image.none=Aucun
 sign.image.arrow_right=Flèche droite
 sign.image.arrow_left=Flèche gauche
 sign.image.arrow_down=Flèche bas
@@ -166,7 +166,7 @@ direction.north=Nord
 direction.south=Sud
 direction.west=Ouest
 direction.east=Est
-direction.none=aucun
+direction.none=Aucun
 
 side.top=Dessus
 side.bottom=Dessous
@@ -174,7 +174,7 @@ side.north=Nord
 side.south=Sud
 side.west=Ouest
 side.east=Est
-side.none=aucun
+side.none=Aucun
 
 container.activator.name=Activateur
 container.chest.name=Coffre
